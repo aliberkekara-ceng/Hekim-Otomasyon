@@ -1,0 +1,42 @@
+C:\Users\berkea\source\repos\vyshastaneodev\vyshastaneodev\bin\Debug\net6.0-windows\vyshastaneodev.exe
+C:\Users\berkea\source\repos\vyshastaneodev\vyshastaneodev\bin\Debug\net6.0-windows\vyshastaneodev.deps.json
+C:\Users\berkea\source\repos\vyshastaneodev\vyshastaneodev\bin\Debug\net6.0-windows\vyshastaneodev.runtimeconfig.json
+C:\Users\berkea\source\repos\vyshastaneodev\vyshastaneodev\bin\Debug\net6.0-windows\vyshastaneodev.dll
+C:\Users\berkea\source\repos\vyshastaneodev\vyshastaneodev\bin\Debug\net6.0-windows\vyshastaneodev.pdb
+C:\Users\berkea\source\repos\vyshastaneodev\vyshastaneodev\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\berkea\source\repos\vyshastaneodev\vyshastaneodev\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\berkea\source\repos\vyshastaneodev\vyshastaneodev\obj\Debug\net6.0-windows\vyshastaneodev.csproj.AssemblyReference.cache
+C:\Users\berkea\source\repos\vyshastaneodev\vyshastaneodev\obj\Debug\net6.0-windows\vyshastaneodev.Form1.resources
+C:\Users\berkea\source\repos\vyshastaneodev\vyshastaneodev\obj\Debug\net6.0-windows\vyshastaneodev.csproj.GenerateResource.cache
+C:\Users\berkea\source\repos\vyshastaneodev\vyshastaneodev\obj\Debug\net6.0-windows\vyshastaneodev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berkea\source\repos\vyshastaneodev\vyshastaneodev\obj\Debug\net6.0-windows\vyshastaneodev.AssemblyInfoInputs.cache
+C:\Users\berkea\source\repos\vyshastaneodev\vyshastaneodev\obj\Debug\net6.0-windows\vyshastaneodev.AssemblyInfo.cs
+C:\Users\berkea\source\repos\vyshastaneodev\vyshastaneodev\obj\Debug\net6.0-windows\vyshastaneodev.csproj.CoreCompileInputs.cache
+C:\Users\berkea\source\repos\vyshastaneodev\vyshastaneodev\obj\Debug\net6.0-windows\vyshastaneodev.csproj.CopyComplete
+C:\Users\berkea\source\repos\vyshastaneodev\vyshastaneodev\obj\Debug\net6.0-windows\vyshastaneodev.dll
+C:\Users\berkea\source\repos\vyshastaneodev\vyshastaneodev\obj\Debug\net6.0-windows\refint\vyshastaneodev.dll
+C:\Users\berkea\source\repos\vyshastaneodev\vyshastaneodev\obj\Debug\net6.0-windows\vyshastaneodev.pdb
+C:\Users\berkea\source\repos\vyshastaneodev\vyshastaneodev\obj\Debug\net6.0-windows\vyshastaneodev.genruntimeconfig.cache
+C:\Users\berkea\source\repos\vyshastaneodev\vyshastaneodev\obj\Debug\net6.0-windows\ref\vyshastaneodev.dll
+C:\Users\berkea\source\repos\vyshastaneodev\vyshastaneodev\obj\Debug\net6.0-windows\vyshastaneodev.Form2.resources
+C:\Users\berkea\Desktop\GitHub Dosyalarım\aileHekimOtomasyon\vyshastaneodev\bin\Debug\net6.0-windows\vyshastaneodev.exe
+C:\Users\berkea\Desktop\GitHub Dosyalarım\aileHekimOtomasyon\vyshastaneodev\bin\Debug\net6.0-windows\vyshastaneodev.deps.json
+C:\Users\berkea\Desktop\GitHub Dosyalarım\aileHekimOtomasyon\vyshastaneodev\bin\Debug\net6.0-windows\vyshastaneodev.runtimeconfig.json
+C:\Users\berkea\Desktop\GitHub Dosyalarım\aileHekimOtomasyon\vyshastaneodev\bin\Debug\net6.0-windows\vyshastaneodev.dll
+C:\Users\berkea\Desktop\GitHub Dosyalarım\aileHekimOtomasyon\vyshastaneodev\bin\Debug\net6.0-windows\vyshastaneodev.pdb
+C:\Users\berkea\Desktop\GitHub Dosyalarım\aileHekimOtomasyon\vyshastaneodev\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\berkea\Desktop\GitHub Dosyalarım\aileHekimOtomasyon\vyshastaneodev\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\berkea\Desktop\GitHub Dosyalarım\aileHekimOtomasyon\vyshastaneodev\obj\Debug\net6.0-windows\vyshastaneodev.csproj.AssemblyReference.cache
+C:\Users\berkea\Desktop\GitHub Dosyalarım\aileHekimOtomasyon\vyshastaneodev\obj\Debug\net6.0-windows\vyshastaneodev.Form1.resources
+C:\Users\berkea\Desktop\GitHub Dosyalarım\aileHekimOtomasyon\vyshastaneodev\obj\Debug\net6.0-windows\vyshastaneodev.Form2.resources
+C:\Users\berkea\Desktop\GitHub Dosyalarım\aileHekimOtomasyon\vyshastaneodev\obj\Debug\net6.0-windows\vyshastaneodev.csproj.GenerateResource.cache
+C:\Users\berkea\Desktop\GitHub Dosyalarım\aileHekimOtomasyon\vyshastaneodev\obj\Debug\net6.0-windows\vyshastaneodev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berkea\Desktop\GitHub Dosyalarım\aileHekimOtomasyon\vyshastaneodev\obj\Debug\net6.0-windows\vyshastaneodev.AssemblyInfoInputs.cache
+C:\Users\berkea\Desktop\GitHub Dosyalarım\aileHekimOtomasyon\vyshastaneodev\obj\Debug\net6.0-windows\vyshastaneodev.AssemblyInfo.cs
+C:\Users\berkea\Desktop\GitHub Dosyalarım\aileHekimOtomasyon\vyshastaneodev\obj\Debug\net6.0-windows\vyshastaneodev.csproj.CoreCompileInputs.cache
+C:\Users\berkea\Desktop\GitHub Dosyalarım\aileHekimOtomasyon\vyshastaneodev\obj\Debug\net6.0-windows\vyshastaneodev.csproj.CopyComplete
+C:\Users\berkea\Desktop\GitHub Dosyalarım\aileHekimOtomasyon\vyshastaneodev\obj\Debug\net6.0-windows\vyshastaneodev.dll
+C:\Users\berkea\Desktop\GitHub Dosyalarım\aileHekimOtomasyon\vyshastaneodev\obj\Debug\net6.0-windows\refint\vyshastaneodev.dll
+C:\Users\berkea\Desktop\GitHub Dosyalarım\aileHekimOtomasyon\vyshastaneodev\obj\Debug\net6.0-windows\vyshastaneodev.pdb
+C:\Users\berkea\Desktop\GitHub Dosyalarım\aileHekimOtomasyon\vyshastaneodev\obj\Debug\net6.0-windows\vyshastaneodev.genruntimeconfig.cache
+C:\Users\berkea\Desktop\GitHub Dosyalarım\aileHekimOtomasyon\vyshastaneodev\obj\Debug\net6.0-windows\ref\vyshastaneodev.dll
